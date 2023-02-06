@@ -1,0 +1,31 @@
+*{
+    padding: 0;
+    margin: 0;
+
+}
+div{
+    background-color: brown;
+    color: black;
+    font-size: xx-large;
+    margin: 45px;
+}
+button{
+    background-color: aqua;
+    color: blueviolet;
+    font-size: x-large;
+    border-radius: 15px;
+}
+button:hover{
+    background-color: rgb(31, 100, 161);
+    color: cadetblue;
+    box-shadow: 12px 12px 2px 1px red;
+}
+.card{
+    width: 20rem;
+}
+.card-body{
+    font-size: medium;
+}
+.card-text{
+    font-size: larger;
+}
